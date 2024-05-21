@@ -1,0 +1,10 @@
+Student Details:
+Name: Arjun Satish Madhyastha
+RollNo: S20210010030
+
+Tasks:
+1. Collecting the dataset
+2. Preprocessing and Indexing the dataset
+3. Creating an inverted index using tf-idf score
+4. Ranking the documents based on cosine similarity and predicting the url type
+5. Relevance feedback from the user
